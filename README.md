@@ -3,4 +3,4 @@ Awesome sign up form with it's validation using HTML , CSS and JavaScript
 
 
 ## Live Demo
-https://abdelrhmanali29.github.io/outdoorTravel/
+https://abdelrhmanali29.github.io/Sign-Up-Form/
